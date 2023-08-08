@@ -35,7 +35,7 @@ Welcome to the City Road Segmentation Dataset, an extensive collection of radar 
 If you find this dataset useful for your work, we kindly request that you cite it using the following format:
 
 ```
-[Ehsan Babaei]. "CryptoCurrency 5min Interval Dataset: For Deep Learning Crypto Predictions" [2021]. [https://github.com/babaee74], version [V1.0]. [https://github.com/babaee74/crypto-dataset/].
+[Ehsan Babaei]. "CryptoCurrency 5min Interval Dataset: For Deep Learning Crypto Predictions" [2021]. [https://github.com/babaee74], version [V1.0]. [[https://github.com/babaee74/crypto-dataset/](https://github.com/babaee74/radar-road-segmenation-dataset/)].
 ```
 
 ## Accessing the Dataset:
